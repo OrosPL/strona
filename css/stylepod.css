@@ -1,0 +1,9 @@
+body {
+    background-color: #004f2d;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    line-height: 1.5;
+}
+p {
+    border-top: 0px;
+}
