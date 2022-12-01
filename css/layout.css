@@ -1,21 +1,22 @@
 #spinacz2{
 	height: 19vh;
-	width:99.05vw;
+	width:90vw;
 	border-left: 0.5vw #303030 solid;
 	border-top: 0.5vw #303030 solid;
 	border-bottom: 0.5vw #303030 solid;
 	border-right: 0.5vw #303030 solid;
 	/*border: 1px solid #000;*/
-	margin-left: auto;
+	margin-left: 5vw;
 	margin-right: auto;
-	background-color: #444444;
+	margin-top: 0;
+	/*background-color: #444444;*/
 	/*border-radius: 50px;*/
 	float:bottom;
-	margin: 0;
+	
 }
 #spinacz3{
 	height: 1vh;
-	width:100vw;
+	width:90vw;
 	/*border: 1px solid #000;*/
 	margin-left: auto;
 	margin-right: auto;
@@ -24,20 +25,21 @@
 	float:bottom;
 }
 #spinacz{
-	height: 77vh;
+	height: 78.25vh;
+	width: 90vw;
 	/*max-width:91vw;
 	border: 1px solid #000;*/
-	margin-left: auto;
+	margin-left: 5vw;
 	margin-right: auto;
 	/*background-color: #888888;*/
 	background-image: url(../baner.png);
 	background-size: 100% 100%;
 	/*border-radius: 50px;*/
 	float:bottom;
-	border-left: 0.5vw #363636 solid;
-	border-top: 0.5vw #363636 solid;
-	border-bottom: 0.5vw #363636 solid;
-	border-right: 0.5vw #363636 solid;
+	border-left: 0.5vw #303030 solid;
+	border-top: 0vw #303030 solid;
+	border-bottom: 0.5vw #303030 solid;
+	border-right: 0.5vw #303030 solid;
 }
 #test{
 	opacity: 0.5;
@@ -53,9 +55,9 @@
 }
 #strona{
 	height: 70vh;
-	width: 70vw;
+	width: 40vw;
 	/*border: 1px solid #000;*/
-	margin-left: 15vw;
+	margin-left: 2vw;
 	float:left;
 	margin-top: 3vh;
 }
@@ -80,4 +82,5 @@
 	text-align: center;
 	font-size: 30px;
 	background-color: #aaa;
+	padding: 0 0 0 0;
 }
